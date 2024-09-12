@@ -32,22 +32,3 @@ Every day, we upload solutions to different LeetCode problems along with detaile
 
 We are here every day to help you conquer LeetCode challenges! Happy coding! 🌟
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NIKKU-29/LEETCODE_DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-## Binary Search
-|  |
-| ------- |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NIKKU-29/LEETCODE_DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-## Simulation
-|  |
-| ------- |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NIKKU-29/LEETCODE_DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-## Prefix Sum
-|  |
-| ------- |
-| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NIKKU-29/LEETCODE_DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-<!---LeetCode Topics End-->
