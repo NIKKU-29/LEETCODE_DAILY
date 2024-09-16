@@ -1,3 +1,10 @@
+#UPDATE
+#WE HIT 200 STREAK!!!!!!
+
+
+![bandicam 2024-09-16 23-35-30-165](https://github.com/user-attachments/assets/73835209-82ce-4d06-9510-f76aba4ac9e1)
+
+
 # Daily LeetCode Questions and Solutions
 
 Welcome to our repository where we solve and explain LeetCode questions daily! 🚀
